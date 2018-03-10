@@ -1,7 +1,9 @@
 # concordance-with-trees
 Concordance Tables with Binary Search Trees and AVL Trees: A Data Structures Project
 
-![](java-button2.png)
+<p align="center">
+  <img width="75" height="82" src="java-button2.png">
+</p>
 
 This program accepts text files and processes all the alphabet strings inside. It then dumps all of these processed strings into a concordance table that is sorted in alphabetical order (uppercase before lowercase). The concordance table is implemented as both a binary search tree and an AVL tree.
 
@@ -49,7 +51,7 @@ I like to use this program with I/O redirection on my bash shell:
 ```sh
 java Project4 --dumptable < 100.txt > ssconcordance.txt
 ```
-![](sscondorance.txt)
+![](header3.jpg)
 
 ## Development setup
 
@@ -79,6 +81,8 @@ Most people have no time to hand-type out information that usually goes into a c
 java Project4 < 100.txt
 ```
 After a few seconds or so it will print out the basic data about the program. Remember the --dumptable argument if you wish to have the entire concordance table printed to standard output. If you want to have the output redirected to a file, take a look at the usage example section.
+
+![](header2.jpg)
 
 ## Release History
 
