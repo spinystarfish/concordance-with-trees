@@ -1,7 +1,7 @@
 # concordance-with-trees
 Concordance Tables with Binary Search Trees and AVL Trees: A Data Structures Project
 
-[![](java-version.jpg)[https://java.com/en/download/]
+![](java-version.jpg)
 
 This program accepts text files and processes all the alphabet strings inside. It then dumps all of these processed strings into a concordance table that is sorted in alphabetical order (uppercase before lowercase). The concordance table is implemented as both a binary search tree and an AVL tree.
 
