@@ -72,7 +72,10 @@ The program will then take standard input. Type out some fun input, then send th
 
 Windows:
 
-Sorry guys, you don't have an equivalent EOF key that the cmd.exe will interpret. Reading from standard input is a bash-shell-only ability. However, that doesn't mean you are powerless - keep reading.
+```sh
+Sorry guys, you don't have an equivalent EOF key that the cmd.exe will interpret : bash-shell-only ability. 
+```
+However, that doesn't mean you are powerless - keep reading.
 
 I/O Redirection:
 
@@ -80,7 +83,7 @@ Most people have no time to hand-type out information that usually goes into a c
 ```sh
 java Project4 < 100.txt
 ```
-After a few seconds or so it will print out the basic data about the program. Remember the --dumptable argument if you wish to have the entire concordance table printed to standard output. If you want to have the output redirected to a file, take a look at the usage example section.
+After a few seconds or so it will print out the basic data about the program. Remember, use the --dumptable argument if you wish to have the entire concordance table printed to standard output. If you want to have the output redirected to a file, take a look at the usage example section.
 
 ![](header2.jpg)
 
